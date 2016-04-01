@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 00e1dda88f182d343abfe64d03dfeb7c
+timeCreated: 1448838678
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: arvore esqrd 2
+    100004: arvore esquerd 3
+    100006: 'bone arvore dir '
+    100008: bone arvore dir _end
+    100010: bone arvore esqrd 1
+    100012: bone arvore esqrd 1_end
+    100014: bone arvore esqrd 2
+    100016: bone arvore esqrd 2_end
+    100018: bone arvore esquerd 3
+    100020: bone arvore esquerd 3_end
+    100022: bone estaleiro
+    100024: bone estaleiro_end
+    100026: BookLeft
+    100028: BookSpain
+    100030: Camera
+    100032: cerca
+    100034: cerca dir
+    100036: cerca dir_end
+    100038: cerca esrq
+    100040: cerca esrq_end
+    100042: cerca.001
+    100044: Cube
+    100046: estaleiro
+    100048: images (7)
+    100050: images (7).001
+    100052: images (7).003
+    100054: images (7).005
+    100056: Lamp
+    100058: Lamp.001
+    100060: Left_corver
+    100062: mato dir
+    100064: mato dir_end
+    100066: mato esqr
+    100068: mato esqr_end
+    100070: Plane
+    100072: Plane.001
+    100074: Plane.002
+    100076: //RootNode
+    100078: Spain
+    400000: Armature
+    400002: arvore esqrd 2
+    400004: arvore esquerd 3
+    400006: 'bone arvore dir '
+    400008: bone arvore dir _end
+    400010: bone arvore esqrd 1
+    400012: bone arvore esqrd 1_end
+    400014: bone arvore esqrd 2
+    400016: bone arvore esqrd 2_end
+    400018: bone arvore esquerd 3
+    400020: bone arvore esquerd 3_end
+    400022: bone estaleiro
+    400024: bone estaleiro_end
+    400026: BookLeft
+    400028: BookSpain
+    400030: Camera
+    400032: cerca
+    400034: cerca dir
+    400036: cerca dir_end
+    400038: cerca esrq
+    400040: cerca esrq_end
+    400042: cerca.001
+    400044: Cube
+    400046: estaleiro
+    400048: images (7)
+    400050: images (7).001
+    400052: images (7).003
+    400054: images (7).005
+    400056: Lamp
+    400058: Lamp.001
+    400060: Left_corver
+    400062: mato dir
+    400064: mato dir_end
+    400066: mato esqr
+    400068: mato esqr_end
+    400070: Plane
+    400072: Plane.001
+    400074: Plane.002
+    400076: //RootNode
+    400078: Spain
+    2300000: Cube
+    2300002: Plane
+    2300004: Plane.001
+    2300006: Plane.002
+    3300000: Cube
+    3300002: Plane
+    3300004: Plane.001
+    3300006: Plane.002
+    4300000: Plane.002
+    4300002: Plane.001
+    4300004: Cube
+    4300006: images (7).005
+    4300008: arvore esquerd 3
+    4300010: arvore esqrd 2
+    4300012: images (7).001
+    4300014: estaleiro
+    4300016: images (7).003
+    4300018: images (7)
+    4300020: cerca
+    4300022: cerca.001
+    4300024: BookSpain
+    4300026: BookLeft
+    4300028: Plane
+    7400000: Armature|ArmatureAction
+    7400002: Armature|Untitled
+    9500000: //RootNode
+    13700000: arvore esqrd 2
+    13700002: arvore esquerd 3
+    13700004: BookLeft
+    13700006: BookSpain
+    13700008: cerca
+    13700010: cerca.001
+    13700012: estaleiro
+    13700014: images (7)
+    13700016: images (7).001
+    13700018: images (7).003
+    13700020: images (7).005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
