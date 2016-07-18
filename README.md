@@ -16,3 +16,10 @@ Pré-requisitos (descrição em costrução):
  
  - Iniciar o ThinkGear_Connector e habilitar o bluethooth do computador para que o MindWave consiga conectar e ser utilizado. O Mind Wave não é requisito obrigatório, porém caso não seja utilizado, não é possivel medir o nível de atenção do usuário.
  - 
+ 
+Equipe
+
+ - Juliana Martins de Oliveira - Concept art, Game design, desenvolvimento, modelagem, animação e texturização
+ - José Clailton Menezes Jorge - Desenvolvimento
+ - Cristtiano de Souza Pinto - Animações e modelagens
+ 
